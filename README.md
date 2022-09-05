@@ -2,8 +2,8 @@
 
 A Gerzsenyi család tagjainak honlapjai
 
-**Gerzsenyi Dávid**
+**Gerzsenyi Dávid**  
 [david.gerzsenyi.net](https://david.gerzsenyi.net)
 
-**Harka-Gerzsenyi Sára**
+**Harka-Gerzsenyi Sára**  
 [sara.harka.com](https://sara.harka.com)
